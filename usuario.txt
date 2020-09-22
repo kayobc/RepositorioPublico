@@ -1,0 +1,5 @@
+CREATE TABLE `usuario` (
+  `id` int(11) NOT NULL,
+  `usuario` varchar(20) NOT NULL,
+  `senha` varchar(70) NOT NULL
+);
